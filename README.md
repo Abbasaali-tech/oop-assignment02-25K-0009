@@ -378,7 +378,7 @@ public:
 ## UML Diagram
 ---
 
-This is UML Diagram made on Draw.io, and the proof has been uploaded in images folder.
+This is UML Diagram made on Draw.io, and the proof has been uploaded in Diagram folder.
 ---
 
 ![Car Management System](./Images/CarManagementSystem(UML).drawio.png)
